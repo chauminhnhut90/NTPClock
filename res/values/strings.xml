@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">NTPClock</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="analog_clock">Analog Clock</string>
+    <string name="digital_clock">Digital Clock</string>
+    <string name="count_down">Next sync</string>
+    <string name="sync_now">Synchronize immediately</string>
+    <string name="ntp_server">Choose NTP server</string>
+    <string name="add">Add</string>
+    <string name="hint">Type new server</string>
+
+</resources>
