@@ -1,1 +1,1 @@
-NTP Clock project
+ Please importing android-support-v7-appcompat and reference if you get error.
